@@ -36,7 +36,16 @@ git clone https://github.com/parsamehrpooshan/BookApp
 cd project-name
 ```
 
-3. اجرای پروژه :
+3. نصب پکیج‌ها :
+
+
+
+```bash
+npm install
+```
+
+
+4. اجرای پروژه :
 
 
 ```bash
