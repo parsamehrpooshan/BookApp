@@ -5,7 +5,10 @@
 
 🎥 دموی آنلاین پروژه (در حال آماده‌سازی...)
 
-📸 پیش‌نمایش پروژه (درحال آماده سازی...)
+📸 پیش‌نمایش:
+
+![Preview](./public/images/screenshot.png)
+
 
 
 ## 🚀 تکنولوژی‌ها و ابزارهای استفاده‌شده
@@ -55,7 +58,7 @@ npm run dev
 📍 سپس پروژه روی آدرس زیر در دسترس خواهد بود:
 
 ```
-http://localhost:5174
+http://localhost:5173
 ```
 
 
@@ -64,9 +67,7 @@ http://localhost:5174
 
 📩 ارتباط با من:
 
-* PhoneNumber: 09184257619
 * Email: [parsamehrpooshan@gmail.com](mailto:example@gmail.com)
-* Instagram: parsa_mehr38
 
 ---
 
